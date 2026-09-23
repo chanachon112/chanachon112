@@ -2,7 +2,8 @@ Hi 👋 My name is Chanachon RATTANAPHOLTHI
 =========================================
 
 sawaddeekub
------------
+![](https://komarev.com/ghpvc/?username=your-github-CHANACHON&color=green)
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/dc3f9d20-93e5-4c99-b044-7bb62ab599ad" />
 
 * 🌍  I'm based in ssdsas
 * ✉️  You can contact me at [chanachon.r@ku.th](mailto:chanachon.r@ku.th)
